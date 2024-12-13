@@ -1,0 +1,23 @@
+#main{
+text-align: center;
+}
+#show{
+    margin-top: 45px;
+}
+
+#show p{
+    font-weight: bold;
+}
+
+#show ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+
+}
+.delete{
+    margin: 5px;
+}
+.edit{
+    margin: 5px;
+}
